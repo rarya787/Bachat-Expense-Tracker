@@ -1,0 +1,4 @@
+- Link user and transaction schema
+- Have cards for each expense on the page
+- Shift to Chakra UI for UI
+- Add Theme toggle
